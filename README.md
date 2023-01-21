@@ -50,7 +50,7 @@ git clone https://github.com/jnorgini/workshop-springboot-jpa
 # testes e modificações no banco de dados
 ⌨️ Navegador http://localhost:8080/h2-console/ ➡️ Connect 
 🛠️ Postman http://localhost:8080/categories ou /orders ou /products ou /users
-Obs: também é possível verificar as tabelas especificando o id. Exemplo: products/5
+Obs: também é possível verificar as tabelas especificando o id. Exemplo: /products/5
 ```
 
 # Autoria
