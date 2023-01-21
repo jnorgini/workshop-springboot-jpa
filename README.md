@@ -44,7 +44,7 @@ git clone https://github.com/jnorgini/workshop-springboot-jpa
 3. Directory / localizar repositório clonado / selecionar a pasta workshop-springboot-jpa
 4. Finish
 
-# executar o projeto
+# executar o projeto no STS
 📁 src/main/java
  📂 com.educandoweb.course
   ➡️ CourseApplication.java / Run As / Spring Boot App
