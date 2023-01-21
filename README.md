@@ -11,11 +11,11 @@
 7. Tratamento de exceções 
 
 ## Domain Model
-<img src="https://user-images.githubusercontent.com/114461353/213862744-fbe74065-90af-4f16-a0c0-a8228116b6f7.png" alt="java" width="835" height="400"/> </a> 
+<img src="https://user-images.githubusercontent.com/114461353/213862744-fbe74065-90af-4f16-a0c0-a8228116b6f7.png" alt="java" width="900" height="400"/> </a> 
 
 
 ## Domain Instance 
-<img src="https://user-images.githubusercontent.com/114461353/213862751-3d8e7111-20eb-47c5-b88c-a387020cc168.png" alt="java" width="835" height="400"/> </a> 
+<img src="https://user-images.githubusercontent.com/114461353/213862751-3d8e7111-20eb-47c5-b88c-a387020cc168.png" alt="java" width="900" height="400"/> </a> 
 
 
 ## Logical Layers 
