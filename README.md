@@ -11,22 +11,20 @@
 7. Tratamento de exceções 
 
 ## Domain Model
-![1](https://user-images.githubusercontent.com/114461353/213862744-fbe74065-90af-4f16-a0c0-a8228116b6f7.png)
+<img src="https://user-images.githubusercontent.com/114461353/213862744-fbe74065-90af-4f16-a0c0-a8228116b6f7.png" alt="java" width="835" height="400"/> </a> 
 
 
 ## Domain Instance 
-![2](https://user-images.githubusercontent.com/114461353/213862751-3d8e7111-20eb-47c5-b88c-a387020cc168.png)
-
+<img src="https://user-images.githubusercontent.com/114461353/213862751-3d8e7111-20eb-47c5-b88c-a387020cc168.png" alt="java" width="835" height="400"/> </a> 
 
 
 ## Logical Layers 
-![3_resized](https://user-images.githubusercontent.com/114461353/213861344-e8765c95-9004-443e-b3b3-f83da23c126a.png)
-
+<img src="https://user-images.githubusercontent.com/114461353/213861344-e8765c95-9004-443e-b3b3-f83da23c126a.png" alt="java" width="600" height="350"/> </a> 
 
 
 # Tecnologias utilizadas
-![5](https://user-images.githubusercontent.com/114461353/213862777-ecf1f682-fd00-4f59-ac5b-e270894c13d0.png)
 
+<img src="https://user-images.githubusercontent.com/114461353/213862777-ecf1f682-fd00-4f59-ac5b-e270894c13d0.png" alt="java" width="600" height="220"/> </a> 
 
 
 # Como executar o projeto
@@ -54,7 +52,7 @@ git clone https://github.com/jnorgini/workshop-springboot-jpa
 🛠️ Postman http://localhost:8080/h2-console/ com /categories ou /orders/1 orders/2 orders/3 ou /products ou /users etc.
 ```
 
-# Autora
+# Autoria
 
 Juliana Norgini
 
