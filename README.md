@@ -50,7 +50,7 @@ git clone https://github.com/jnorgini/workshop-springboot-jpa
   ➡️ CourseApplication.java / Run As / Spring Boot App
 
 # testes e modificações no banco de dados
-⌨️ No navegador http://localhost:8080/h2-console/
+⌨️ Navegador http://localhost:8080/h2-console/
 🛠️ Postman http://localhost:8080/h2-console/ com /categories ou /orders/1 orders/2 orders/3 ou /products ou /users etc.
 ```
 
