@@ -36,7 +36,7 @@
 
 ```bash
 # clonar repositório
-📀 git clone https://github.com/jnorgini/workshop-springboot-jpa
+git clone https://github.com/jnorgini/workshop-springboot-jpa
 
 # abrir o Spring Tool Suite 4
 1. ir em file
