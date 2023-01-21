@@ -8,23 +8,22 @@
 4. Configuração do banco de dados de teste (H2)
 5. Povoar o banco de dados
 6. CRUD - Create, Retrieve, Update, Delete
-7. Tratamento de exceções 
+7. Tratamento de exceções
+
+# Tecnologias utilizadas
+
+<img src="https://user-images.githubusercontent.com/114461353/213862777-ecf1f682-fd00-4f59-ac5b-e270894c13d0.png" alt="java" width="500" height="200"/> </a> 
 
 ## Domain Model
 <img src="https://user-images.githubusercontent.com/114461353/213862744-fbe74065-90af-4f16-a0c0-a8228116b6f7.png" alt="java" width="800" height="300"/> </a> 
 
 
 ## Domain Instance 
-<img src="https://user-images.githubusercontent.com/114461353/213862751-3d8e7111-20eb-47c5-b88c-a387020cc168.png" alt="java" width="900" height="500"/> </a> 
+<img src="https://user-images.githubusercontent.com/114461353/213862751-3d8e7111-20eb-47c5-b88c-a387020cc168.png" alt="java" width="800" height="450"/> </a> 
 
 
 ## Logical Layers 
 <img src="https://user-images.githubusercontent.com/114461353/213861344-e8765c95-9004-443e-b3b3-f83da23c126a.png" alt="java" width="600" height="400"/> </a> 
-
-
-# Tecnologias utilizadas
-
-<img src="https://user-images.githubusercontent.com/114461353/213862777-ecf1f682-fd00-4f59-ac5b-e270894c13d0.png" alt="java" width="500" height="200"/> </a> 
 
 # H2
 <img src="https://user-images.githubusercontent.com/114461353/213884153-cd474f81-ecdd-45a3-b514-2ef7a1422055.png" alt="java" width="400" height="400"/> </a>
@@ -61,8 +60,11 @@ git clone https://github.com/jnorgini/workshop-springboot-jpa
 Obs: também é possível verificar as tabelas especificando o id. Exemplo: /products/5
 ```
 
-# Autoria
+## Autoria
 
 Juliana Norgini
 
-https://www.linkedin.com/in/juliana-norgini
+ ## Contato
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/)](https://www.linkedin.com/in/juliana-norgini-5b0bb61b0/)
+[![Gmail Badge](https://img.shields.io/badge/-jnorgini@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnorgini@gmail.com)](mailto:jnorgini@gmail.com)
