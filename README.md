@@ -46,7 +46,7 @@ git clone https://github.com/jnorgini/workshop-springboot-jpa
 # abrir o Spring Tool Suite 4
 1. ir em file
 2. Open Projects from File System
-3. Directory / localizar repositório clonado / selecionar a pasta workshop-springboot-jpa
+3. Directory / localizar o repositório clonado / selecionar a pasta workshop-springboot-jpa
 4. Finish
 
 # executar o projeto no STS
