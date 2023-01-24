@@ -36,7 +36,11 @@
 
 # Como executar o projeto
 
-#### Pré-requisitos: Git Bash | Spring Tool Suite 4 | Postman
+#### 🛑 Pré-requistos
+
+- [x] Git Bash
+- [x] Spring Tool Suite 4
+- [x] Postman
 
 
 ```bash
