@@ -2,13 +2,13 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/jnorgini/workshop-springboot-jpa/blob/main/licence) 
 
 # Objetivos
-1. Criação do projeto Spring Boot Java
-2. Implementação do modelo de domínio
-3. Estruturação das camadas lógicas: resource, service, repository
-4. Configuração do banco de dados de teste (H2)
-5. Povoar o banco de dados
-6. CRUD - Create, Retrieve, Update, Delete
-7. Tratamento de exceções
+- [x] Criação do projeto Spring Boot Java
+- [x] Implementação do modelo de domínio
+- [x] Estruturação das camadas lógicas: resource, service, repository
+- [x] Configuração do banco de dados de teste (H2)
+- [x] Povoar o banco de dados
+- [x] CRUD - Create, Retrieve, Update, Delete
+- [x] Tratamento de exceções
 
 # Tecnologias utilizadas
 
