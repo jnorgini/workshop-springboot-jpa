@@ -5,7 +5,7 @@
 - [x] Criação do projeto Spring Boot Java
 - [x] Implementação do modelo de domínio
 - [x] Estruturação das camadas lógicas: resource, service, repository
-- [x] Configuração do banco de dados de teste (H2)
+- [x] Configuração do banco de dados relacional H2
 - [x] Povoar o banco de dados
 - [x] CRUD - Create, Retrieve, Update, Delete
 - [x] Tratamento de exceções
