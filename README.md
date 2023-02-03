@@ -48,15 +48,13 @@
 git clone https://github.com/jnorgini/workshop-springboot-jpa
 
 # abrir o Spring Tool Suite 4
-1. ir em file
-2. Open Projects from File System
-3. Directory / localizar o repositório clonado / selecionar a pasta workshop-springboot-jpa
-4. Finish
+1. Ir em file > Import > Maven > Existing Maven Projects
+2. Localizar a pasta workshop-springboot-jpa
+3. Finish
 
 # executar o projeto no STS
-📁 src/main/java
- 📂 com.educandoweb.course
-  ➡️ CourseApplication.java / Run As / Spring Boot App
+1. Clicar com o direito no projeto > Run as > Maven Build... > colocar no campo Goals: clean package > Run
+2. Ir em src/main/java > com.educandoweb.course > CourseApplication.java > Run As > Spring Boot App
 
 # testes e modificações no banco de dados
 ⌨️ Navegador http://localhost:8080/h2-console/ ➡️ Connect 
@@ -64,11 +62,11 @@ git clone https://github.com/jnorgini/workshop-springboot-jpa
 Obs: também é possível manipular as tabelas especificando o id. Exemplo: /products/5
 ```
 
-## Autoria
+---
 
-Juliana Norgini
+>Autoria: Juliana Norgini
 
- ## Contato
+>Contato
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-norgini)](https://www.linkedin.com/in/juliana-norgini)
 [![Gmail Badge](https://img.shields.io/badge/-jnorgini@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jnorgini@gmail.com)](mailto:jnorgini@gmail.com)
